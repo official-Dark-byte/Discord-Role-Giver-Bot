@@ -33,6 +33,6 @@ The bot currently only supports one command:
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-#Credits
+# Credits
 
-This bot was created by Double. If you have any questions or issues, feel free to contact me on Discord at Double#9000.
+This bot was created by Double. If you have any questions or issues, feel free to contact me on Discord at doubl.e.
